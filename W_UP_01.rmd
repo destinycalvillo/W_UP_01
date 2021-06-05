@@ -84,4 +84,4 @@ Because the p-value is so small and tiny, we need to reject the null hypothesis.
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+First, I did a variable analysis where I looked at the variables given in order to identify which type of problem it was. After, I got the numerical-categorical helper file in order to be able to pull up the different box-plots and tests. I was able to use the appropriate commands after I changed the variables within the command. From the results, I realized that I should reject the null hypothesis, meaning that there is a major statistical difference in the amount of push-ups a skill player can perform compared to the amount that a line player can perform.
